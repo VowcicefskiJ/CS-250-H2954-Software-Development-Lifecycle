@@ -1,21 +1,10 @@
 # CS-250-H2954-Software-Development-Lifecycle
 
 
-**Interpreting User Needs in Programming**
+Looking back at how I've learned to understand what users need and put that into the programs I make, I've realized it's been a big learning journey. At first, I thought programming was all about making cool stuff, but I soon found out it's more important to make things that are really useful. The main thing I learned is to talk to the users, find out what problems they face every day, and figure out what they really need from the software. This new way of thinking was a big change for me.
 
-**How I Understand User Needs and Use User Stories**
+Using user stories has really helped me out. They let me take big, complicated problems and break them down into smaller, easier parts. Writing these stories from the point of view of the user has taught me to focus on what they actually need, not just what I think they should need. This way of doing things has made my work more about the user and more satisfying for me.
 
-In our SNHU Travel project, figuring out what users really needed was a big part of what we did. Working with Christy, our Product Owner, was awesome because she really got what users wanted and knew how to put that first. We used "user stories" a lot, and they were super helpful. They made sure we weren't just coding in the dark but actually making stuff that people would find useful and fun to use. For example, when we worked on the Top Five Destination feature and the Wellness Retreats SlideShow, these stories made sure we stayed on track with what users would like.
+My way of making programs has changed a lot too. I used to think programming was just sitting alone and coding for a long time. But now, I see it's more about making something, getting feedback, and then making changes based on that feedback. I've started to really like agile methods, especially sprints, which are like short periods of focused work that help me keep on track. Regular quick meetings, called stand-ups, have been super helpful too. They keep everyone updated and help us solve problems quickly. I'm still learning about Continuous Integration/Continuous Deployment (CI/CD), but I can tell it's going to be great for making development smoother and faster.
 
-
-**My Approach to Developing Programs**
-
-**Agile Processes I Want to Use More**
-
-I've really taken to the Agile way of doing things, especially after working on this project. It was super handy when we had to add the SlideShow feature out of the blue. Looking ahead, I definitely want to keep using Agile stuff like doing things in small steps (iterative development), constantly testing and fixing things (continuous integration), and always thinking about how we can do better (feedback loops). Being the Scrum Master showed me it's not just about following a set of rules but making them work for your team and your project.
-
-**Being Part of a Software Development Team**
-
-**What It Means to Me**
-
-Being a good team member in software development is about more than just coding. It's about how you work with others. Our team was pretty diverse, which was great. Christy was all about adapting to new ideas, Brian was our go-to guy for making sure everything worked right, and Nicky could code like a wizard. My job as Scrum Master was to keep everyone talking and on the same page, and to make sure we all felt like we were part of something important. I learned that being a good team member means listening, sharing what you know, respecting different ideas, and helping to create a place where everyone can do their best work.
+Being part of a software development team has taught me a lot. I've learned that it's super important to communicate well. This means not just talking but also asking good questions and really listening to what others say. Being reliable is important too. I try to be someone my team can rely on, someone who meets deadlines and takes responsibility for their work. In tech, things change fast, so being able to adapt is essential. I've learned to be open to new ideas and changes, whether they're about the latest tech or what the project needs. Also, in this field that's always changing, I've found it's important to keep learning, both from successes and mistakes.
